@@ -1,0 +1,127 @@
+{
+    "btc_tower_electricity": [
+        "Device",
+        "EnergyConsumption",
+        "StorageBatteryDevice"
+    ],
+    "slovenian_calendar": [
+        "Calendar",
+        "Building",
+        "WeatherForecast"
+    ],
+    "solar_power_plant_production": [
+        "SolarEnergy",
+        "PhotovoltaicMeasurement",
+        "PhotovoltaicDevice"
+    ],
+    "weather_data": [
+        "WeatherObserved",
+        "WeatherForecast",
+        "PhotovoltaicMeasurement"
+    ],
+    "veolia_3_historical_data_from_buildings": [
+        "BuildingOperation",
+        "Building",
+        "Project"
+    ],
+    "BEMS": [
+        "Device",
+        "PhotovoltaicDevice",
+        "SmartMeteringObservation"
+    ],
+    "Charging station": [
+        "Device",
+        "EV Charging Station",
+        "StorageBatteryDevice"
+    ],
+    "Photovoltaic": [
+        "SolarEnergy",
+        "StorageBatteryDevice",
+        "EV Charging Station"
+    ],
+    "Copernico solar projects general info": [
+        "Project",
+        "PhotovoltaicDevice",
+        "SolarEnergy"
+    ],
+    "Electric_appliances_in_house": [
+        "EV Charging Station",
+        "Device",
+        "StorageBatteryDevice"
+    ],
+    "EPC": [
+        "WeatherAlert",
+        "EPC",
+        "Device"
+    ],
+    "Resendential_solar_production": [
+        "SolarEnergy",
+        "PhotovoltaicDevice",
+        "WeatherAlert"
+    ],
+    "Weather_information": [
+        "WeatherAlert",
+        "WeatherObserved",
+        "WeatherForecast"
+    ],
+    "Historical_data_monitoring_data_from_torrelago_DHN \u03bb": [
+        "Device",
+        "WeatherObserved",
+        "SmartMeteringObservation"
+    ],
+    "Buildings": [
+        "Building",
+        "EV Charging Station",
+        "Device"
+    ],
+    "Buildings_Energy_Consumption": [
+        "EnergyConsumption",
+        "Building",
+        "Device"
+    ],
+    "Current libraries building": [
+        "Building",
+        "BuildingOperation",
+        "TechnicalCabinetDevice  "
+    ],
+    "Gdynia example data for public buildings": [
+        "Building",
+        "EV Charging Station",
+        "EPC"
+    ],
+    "gdynia_4_air_quality_recorders": [
+        "WeatherObserved",
+        "PhotovoltaicDevice",
+        "StorageBatteryMeasurement"
+    ],
+    "Certificados": [
+        "EPC",
+        "PhotovoltaicDevice",
+        "EnergyConsumption"
+    ],
+    "Certificados_building": [
+        "Building",
+        "TechnicalCabinetDevice  ",
+        "ACMeasurement"
+    ],
+    "Electronic_Monitoring_System_Riga_city_distric_heating": [
+        "WeatherAlert",
+        "SmartMeteringObservation",
+        "InverterDevice"
+    ],
+    "weather data": [
+        "WeatherObserved",
+        "WeatherForecast",
+        "PhotovoltaicMeasurement"
+    ],
+    "PORTUGALETE": [
+        "Building",
+        "EV Charging Station",
+        "EPC"
+    ],
+    "Zabelgana": [
+        "EPC",
+        "EnergyConsumption",
+        "EV Charging Station"
+    ]
+}

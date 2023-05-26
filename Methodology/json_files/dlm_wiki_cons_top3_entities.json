@@ -1,0 +1,100 @@
+{
+    "btc_tower_electricity": [
+        "Device",
+        "WeatherForecast",
+        "StorageBatteryDevice"
+    ],
+    "slovenian_calendar": [
+        "Building",
+        "Calendar",
+        "WeatherAlert"
+    ],
+    "solar_power_plant_production": [
+        "SolarEnergy",
+        "Building",
+        "Questionnaire"
+    ],
+    "weather_data": [
+        "WeatherForecast",
+        "WeatherObserved",
+        "PhotovoltaicMeasurement"
+    ],
+    "veolia_3_historical_data_from_buildings": [
+        "Building",
+        "BuildingOperation",
+        "Room"
+    ],
+    "Charging station": [
+        "Device",
+        "WeatherForecast",
+        "EV Charging Station"
+    ],
+    "Copernico solar projects general info": [
+        "Building",
+        "WeatherAlert",
+        "Device"
+    ],
+    "Electric_appliances_in_house": [
+        "PhotovoltaicDevice",
+        "PhotovoltaicMeasurement",
+        "Building"
+    ],
+    "EPC": [
+        "EPC"
+    ],
+    "Resendential_solar_production": [
+        "WeatherAlert"
+    ],
+    "Weather_information": [
+        "WeatherAlert",
+        "WeatherForecast"
+    ],
+    "Historical_data_monitoring_data_from_torrelago_DHN \u03bb": [
+        "Device",
+        "Building",
+        "BuildingOperation"
+    ],
+    "Buildings": [
+        "Building",
+        "EV Charging Station",
+        "PhotovoltaicDevice"
+    ],
+    "Buildings_Energy_Consumption": [
+        "EnergyConsumption",
+        "Device",
+        "WeatherForecast"
+    ],
+    "Current libraries building": [
+        "InverterDevice",
+        "PhotovoltaicMeasurement",
+        "StorageBatteryMeasurement"
+    ],
+    "gdynia_4_air_quality_recorders": [
+        "WeatherObserved",
+        "WeatherForecast"
+    ],
+    "Certificados_building": [
+        "Building",
+        "WeatherObserved",
+        "StorageBatteryDevice"
+    ],
+    "Electronic_Monitoring_System_Riga_city_distric_heating": [
+        "WeatherAlert",
+        "EnergyConsumption"
+    ],
+    "weather data": [
+        "WeatherForecast",
+        "WeatherAlert",
+        "WeatherObserved"
+    ],
+    "PORTUGALETE": [
+        "EV Charging Station",
+        "Building",
+        "PhotovoltaicDevice"
+    ],
+    "Zabelgana": [
+        "EnergyConsumption",
+        "EV Charging Station",
+        "EPC"
+    ]
+}

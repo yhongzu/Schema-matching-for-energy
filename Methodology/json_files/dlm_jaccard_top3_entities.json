@@ -1,0 +1,127 @@
+{
+    "btc_tower_electricity": [
+        "Device",
+        "WeatherForecast",
+        "WeatherObserved"
+    ],
+    "slovenian_calendar": [
+        "Calendar",
+        "Building",
+        "WeatherAlert"
+    ],
+    "solar_power_plant_production": [
+        "EnergyConsumption",
+        "BuildingOperation",
+        "PhotovoltaicMeasurement"
+    ],
+    "weather_data": [
+        "WeatherForecast",
+        "WeatherObserved",
+        "PhotovoltaicDevice"
+    ],
+    "veolia_3_historical_data_from_buildings": [
+        "PhotovoltaicMeasurement",
+        "EV Charging Station",
+        "SmartMeteringObservation"
+    ],
+    "BEMS": [
+        "Battery",
+        "Building",
+        "StorageBatteryDevice"
+    ],
+    "Charging station": [
+        "Device",
+        "EV Charging Station",
+        "WeatherObserved"
+    ],
+    "Photovoltaic": [
+        "PhotovoltaicDevice",
+        "StorageBatteryDevice",
+        "EnergyConsumption"
+    ],
+    "Copernico solar projects general info": [
+        "TechnicalCabinetDevice  ",
+        "SolarEnergy",
+        "StorageBatteryDevice"
+    ],
+    "Electric_appliances_in_house": [
+        "StorageBatteryDevice",
+        "TechnicalCabinetDevice  ",
+        "PhotovoltaicDevice"
+    ],
+    "EPC": [
+        "EPC",
+        "Device",
+        "PhotovoltaicDevice"
+    ],
+    "Resendential_solar_production": [
+        "WeatherAlert",
+        "SmartMeteringObservation",
+        "StorageBatteryDevice"
+    ],
+    "Weather_information": [
+        "WeatherAlert",
+        "WeatherForecast",
+        "EV Charging Station"
+    ],
+    "Historical_data_monitoring_data_from_torrelago_DHN \u03bb": [
+        "Device",
+        "StorageBatteryDevice",
+        "EV Charging Station"
+    ],
+    "Buildings": [
+        "Building",
+        "EV Charging Station",
+        "BuildingOperation"
+    ],
+    "Buildings_Energy_Consumption": [
+        "EnergyConsumption",
+        "Device",
+        "SmartMeteringObservation"
+    ],
+    "Current libraries building": [
+        "Building",
+        "BuildingOperation",
+        "StorageBatteryDevice"
+    ],
+    "Gdynia example data for public buildings": [
+        "BuildingOperation",
+        "EnergyConsumption",
+        "Building"
+    ],
+    "gdynia_4_air_quality_recorders": [
+        "WeatherObserved",
+        "StorageBatteryMeasurement",
+        "SolarEnergy"
+    ],
+    "Certificados": [
+        "PhotovoltaicDevice",
+        "EPC",
+        "StorageBatteryDevice"
+    ],
+    "Certificados_building": [
+        "Building",
+        "PhotovoltaicDevice",
+        "StorageBatteryDevice"
+    ],
+    "Electronic_Monitoring_System_Riga_city_distric_heating": [
+        "StorageBatteryDevice",
+        "StorageBatteryMeasurement",
+        "TechnicalCabinetDevice  "
+    ],
+    "weather data": [
+        "WeatherAlert",
+        "BuildingOperation",
+        "WeatherForecast"
+    ],
+    "PORTUGALETE": [
+        "EV Charging Station",
+        "BuildingOperation",
+        "Building"
+    ],
+    "Zabelgana": [
+        "EV Charging Station",
+        "BuildingOperation",
+        "Building"
+    ]
+}

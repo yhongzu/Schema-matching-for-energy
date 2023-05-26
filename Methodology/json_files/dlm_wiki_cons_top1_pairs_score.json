@@ -1,0 +1,23 @@
+{
+    "('btc_tower_electricity', 'Device')": 0.518,
+    "('slovenian_calendar', 'Building')": 0.34,
+    "('solar_power_plant_production', 'SolarEnergy')": 0.31,
+    "('weather_data', 'WeatherForecast')": 0.495,
+    "('veolia_3_historical_data_from_buildings', 'Building')": 0.25,
+    "('Charging station', 'Device')": 0.495,
+    "('Copernico solar projects general info', 'Building')": 0.316,
+    "('Electric_appliances_in_house', 'PhotovoltaicDevice')": 0.3,
+    "('EPC', 'EPC')": 0.25,
+    "('Resendential_solar_production', 'WeatherAlert')": 0.2,
+    "('Weather_information', 'WeatherAlert')": 0.217,
+    "('Historical_data_monitoring_data_from_torrelago_DHN \u03bb', 'Device')": 0.333,
+    "('Buildings', 'Building')": 0.52,
+    "('Buildings_Energy_Consumption', 'EnergyConsumption')": 0.4,
+    "('Current libraries building', 'InverterDevice')": 0.372,
+    "('gdynia_4_air_quality_recorders', 'WeatherObserved')": 0.183,
+    "('Certificados_building', 'Building')": 0.262,
+    "('Electronic_Monitoring_System_Riga_city_distric_heating', 'WeatherAlert')": 0.25,
+    "('weather data', 'WeatherForecast')": 0.247,
+    "('PORTUGALETE', 'EV Charging Station')": 0.496,
+    "('Zabelgana', 'EnergyConsumption')": 0.258
+}

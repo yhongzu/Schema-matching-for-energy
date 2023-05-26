@@ -1,0 +1,20 @@
+{
+    "('btc_tower_electricity', 'Device')": 0.545,
+    "('slovenian_calendar', 'Calendar')": 0.558,
+    "('solar_power_plant_production', 'SolarEnergy')": 0.378,
+    "('weather_data', 'WeatherForecast')": 0.436,
+    "('veolia_3_historical_data_from_buildings', 'Building')": 0.466,
+    "('Charging station', 'Device')": 0.621,
+    "('Copernico solar projects general info', 'Project')": 0.583,
+    "('Electric_appliances_in_house', 'Device')": 0.528,
+    "('EPC', 'EPC')": 0.25,
+    "('Weather_information', 'WeatherAlert')": 0.244,
+    "('Historical_data_monitoring_data_from_torrelago_DHN \u03bb', 'Device')": 0.425,
+    "('Buildings', 'Building')": 0.562,
+    "('Buildings_Energy_Consumption', 'EnergyConsumption')": 0.552,
+    "('Current libraries building', 'Building')": 0.562,
+    "('Gdynia example data for public buildings', 'Building')": 0.43,
+    "('weather data', 'WeatherForecast')": 0.434,
+    "('PORTUGALETE', 'EV Charging Station')": 0.514,
+    "('Zabelgana', 'EV Charging Station')": 0.395
+}
